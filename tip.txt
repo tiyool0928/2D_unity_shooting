@@ -1,0 +1,4 @@
+Destroy() = 오브젝트 삭제 함수
+Instantiate() = 매개변수 오브젝트 생성 함수
+Invoke("", time) = 시간차 함수
+Range(): 정해진 범위 내의 랜덤 숫자 반환
